@@ -1,0 +1,8 @@
+body {
+    background: #555742;
+    margin: 0;
+}
+h1,h2,h3,h4,a,p,li {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+}
